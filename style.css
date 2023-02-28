@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+
+.card{
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    background: url(backgorund.png) no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+
+h1{
+font-family: 'Work Sans', sans-serif;
+font-size: 130%;
+position: relative;
+left: 16%;
+top: 5px;
+}
+.img{
+    list-style-image: url(123.png);
+    bottom: 40px;
+    width: 50px;
+    position: relative;
+    border: 1px solid black;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+    height: 10px;
+    
+}
+
+.Instagram{
+    list-style-image: url(Insta.png);
+    letter-spacing: 2px; word-spacing: 4px;
+    text-shadow: 2px 4px 5px rgb(27, 66, 120);
+    text-decoration: overline;
+    position: relative;
+    bottom: 40px;
+}
+.Telegram{
+    list-style-image: url(Twitter.png);
+    letter-spacing: 2px; word-spacing: 4px;
+    text-shadow: 2px 4px 5px rgb(27, 66, 120);
+    text-decoration: overline;
+    position: relative;
+    bottom: 40px;
+
+}
+.Youtube{
+    list-style-image: url(Youtube.png);
+    letter-spacing: 2px; word-spacing: 4px;
+    text-shadow: 2px 4px 5px rgb(27, 66, 120);
+    text-decoration: overline;
+    position: relative;
+    bottom: 40px;
+
+
+}
+
